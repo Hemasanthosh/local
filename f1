@@ -1,3 +1,8 @@
 first time
 second line
+<<<<<<< HEAD
 4Th line
+=======
+third by feature
+>>>>>>> feature
+
